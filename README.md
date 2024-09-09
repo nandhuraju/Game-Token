@@ -9,7 +9,7 @@ This project contains the Solidity code for the **Hitman (HT)** ERC20 token. It 
 - **Token Symbol**: HT
 - **Decimals**: 18
 - **Initial Supply**: 100 HT (Minted to contract deployer)
-- **Verified and Published Contract**: [Etherscan](https://sepolia.etherscan.io/verifyContract-solc-multiple?a=0x5F65F0f7d2e118bAA4Db07aD6E1446466FA9d326&c=v0.8.23%2bcommit.f704f362&lictype=3)
+- **Verified and Published Contract**: [Etherscan](https://sepolia.etherscan.io/address/0x5F65F0f7d2e118bAA4Db07aD6E1446466FA9d326#code)
 
 ---
 
