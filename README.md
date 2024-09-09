@@ -49,4 +49,4 @@ The **Hitman (HT)** token is designed to be used in various applications, such a
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.[License](https://github.com/nandhuraju/Game-Token/blob/main/License.txt)
